@@ -1,4 +1,4 @@
-# Premium Sessions
+# Premium Studios
 
 AI-powered marketplace for recording studios, audio engineers, and artists.
 
@@ -69,4 +69,4 @@ For support, email support@premiumsessions.com or visit our help center.
 
 ## 📄 License
 
-Copyright © 2024 Premium Sessions. All rights reserved.# PremiumStudios
+Copyright © 2024 Premium Records. All rights reserved.# PremiumStudios
